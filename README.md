@@ -1,3 +1,5 @@
+BigCommerce 01
+
 # Amplience Demostore Core Package
 
 `dc-demostore-core` is a React/Material/NextJS front-end e-Commerce application, implemented with Typescript, showcasing Amplience Dynamic Media and Dynamic Content.
