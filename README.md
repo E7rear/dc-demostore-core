@@ -195,15 +195,18 @@ In your Vercel project browse to Settings --> Environment Variables and edit the
 ## Additional Topics
 
 -   [Features Highlights](docs/FeatureHighlights.md)
+-   [Image Studio](docs/DeepDive.md#image-studio)
 -   [High-Level Architecture](docs/ArchDiagram.md)
 -   [Available Components](docs/Components.md)
 -   [Exploring features](docs/DeepDive.md)
 -   [Changing eCommerce Configuration](docs/ECommerceConfiguration.md)
 -   [Working with Pages](docs/WorkingWithPages.md)
 -   [Blogs](docs/Blogs.md)
+-   [Automated Video Captions](docs/AutomatedVideoCaptions.md)
 -   [Debug / X-Ray Panel](docs/Debug-Xray-Panel.md)
 -   [Contribution Model (fork, PR, etc.)](https://github.com/amplience/dc-cli/blob/master/CONTRIBUTING.md)
 -   [FAQ](docs/FAQ.md)
 -   Upgrades:
+    -   [v5.0.0 Upgrade](docs/v5.0.0-upgrade.md)
     -   [v4.0.0 Upgrade](docs/v4.0.0-upgrade.md)
     -   [v3.0.0 Upgrade](docs/v3.0.0-upgrade.md)

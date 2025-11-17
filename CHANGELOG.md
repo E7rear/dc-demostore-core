@@ -1,5 +1,67 @@
 # Changelog
 
+## [5.0.0](https://github.com/amplience/dc-demostore-core/compare/v4.3.0...v5.0.0) (2025-08-20)
+
+
+### Features
+
+* dnd hierarchy navigation placeholders ([#91](https://github.com/amplience/dc-demostore-core/issues/91)) ([d03f3df](https://github.com/amplience/dc-demostore-core/commit/d03f3dfd503a9a320148f67a78c4ff8a6254444c))
+
+
+### Bug Fixes
+
+* first child only ([#98](https://github.com/amplience/dc-demostore-core/issues/98)) ([a7ad3f7](https://github.com/amplience/dc-demostore-core/commit/a7ad3f71571370d857187c5a949761bc5299788e))
+
+
+### Miscellaneous Chores
+
+* release 5.0.0 ([56648e2](https://github.com/amplience/dc-demostore-core/commit/56648e2cdf8c2d962a076560a4a131f7f20088ce))
+
+## [4.3.0](https://github.com/amplience/dc-demostore-core/compare/v4.2.0...v4.3.0) (2025-04-10)
+
+
+### Features
+
+* support scayle api base override ([#85](https://github.com/amplience/dc-demostore-core/issues/85)) ([423a174](https://github.com/amplience/dc-demostore-core/commit/423a174ea439c87eae5949e3490805a1ca52e2d6))
+
+## [4.2.0](https://github.com/amplience/dc-demostore-core/compare/v4.1.0...v4.2.0) (2025-01-28)
+
+
+### Features
+
+* bump integration middleware version ([abe9305](https://github.com/amplience/dc-demostore-core/commit/abe9305c258e47d96bf26946b2f8a1140097755b))
+
+
+### Bug Fixes
+
+* catch errors when customer group request is not implemented ([80cd634](https://github.com/amplience/dc-demostore-core/commit/80cd634e94ff3ded117ae4219ecfa34048066d61))
+* check variant prices prop is defined ([f0e533a](https://github.com/amplience/dc-demostore-core/commit/f0e533aded6038ab7dadab06cb00623006653173))
+* checking for undefined menu items menu priority when sorting navigation ([a7b2c77](https://github.com/amplience/dc-demostore-core/commit/a7b2c77860dd01ac8da64cbe501b22c21ff8c434))
+* package-lock bump to middleware v2.4.0 ([d514afe](https://github.com/amplience/dc-demostore-core/commit/d514afe9dfc8239d00e47b6bb5c789a56ff34367))
+* prevent curate product grid card overflow ([db0ea32](https://github.com/amplience/dc-demostore-core/commit/db0ea3291d08df0443385a0844214ba08a551772))
+
+## [4.1.0](https://github.com/amplience/dc-demostore-core/compare/v4.0.1...v4.1.0) (2024-08-29)
+
+
+### Features
+
+* added docs, in readme and additional profile ([f2edeb5](https://github.com/amplience/dc-demostore-core/commit/f2edeb5855ea7e2d48e8ff4fde3ed9b8ad17d87e))
+* Video Captions and WIP docs process ([9d4b08e](https://github.com/amplience/dc-demostore-core/commit/9d4b08e851bcb83e3e77514e1a40e61fb7cd951f))
+
+
+### Bug Fixes
+
+* Crash on category page breadcrumb and fix to # to not link for group ([9f06476](https://github.com/amplience/dc-demostore-core/commit/9f064761d65218c0391b95565471146eb688cbd9))
+* Display of locationName and click and collect with crash fix ([38d9b2f](https://github.com/amplience/dc-demostore-core/commit/38d9b2f89e51ad76a5878d2d7ce122e2ab19a4a4))
+* Possible Link with no object / string causing crash ([742f82f](https://github.com/amplience/dc-demostore-core/commit/742f82f13f6392af877506b8b31b2210162dead6))
+
+## [4.0.1](https://github.com/amplience/dc-demostore-core/compare/v4.0.0...v4.0.1) (2024-07-23)
+
+
+### Bug Fixes
+
+* Advanced banner now adheres to DI params ([d0b4bdd](https://github.com/amplience/dc-demostore-core/commit/d0b4bdd3ab9fb0afa1ad79543144ec511878a92f))
+
 ## [4.0.0](https://github.com/amplience/dc-demostore-core/compare/v3.0.0...v4.0.0) (2024-05-15)
 
 
